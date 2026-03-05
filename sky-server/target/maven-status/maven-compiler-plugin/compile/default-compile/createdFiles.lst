@@ -1,5 +1,5 @@
-com/sky/mapper/EmployeeMapper.class
 com/sky/SkyApplication.class
+com/sky/mapper/EmployeeMapper.class
 com/sky/interceptor/JwtTokenAdminInterceptor.class
 com/sky/service/EmployeeService.class
 com/sky/config/WebMvcConfiguration.class
