@@ -1,8 +1,8 @@
 /home/ent/mySpringBootProgram/sky-common/src/main/java/com/sky/utils/AliOssUtil.java
 /home/ent/mySpringBootProgram/sky-common/src/main/java/com/sky/exception/BaseException.java
 /home/ent/mySpringBootProgram/sky-common/src/main/java/com/sky/exception/SetmealEnableFailedException.java
-/home/ent/mySpringBootProgram/sky-common/src/main/java/com/sky/constant/MessageConstant.java
 /home/ent/mySpringBootProgram/sky-common/src/main/java/com/sky/constant/StatusConstant.java
+/home/ent/mySpringBootProgram/sky-common/src/main/java/com/sky/constant/MessageConstant.java
 /home/ent/mySpringBootProgram/sky-common/src/main/java/com/sky/context/BaseContext.java
 /home/ent/mySpringBootProgram/sky-common/src/main/java/com/sky/json/JacksonObjectMapper.java
 /home/ent/mySpringBootProgram/sky-common/src/main/java/com/sky/constant/AutoFillConstant.java
